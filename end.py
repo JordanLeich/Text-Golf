@@ -4,6 +4,6 @@
 # End of program function
 def end():
     import time
-    print("Reached end of the program... Ending program...\n")
+    print("Thanks for playing! We will exit the program for you soon...\n")
     time.sleep(3)
     quit()
